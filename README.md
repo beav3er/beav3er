@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @beav3er
+- 🌱 I’m working with HTML, CSS and I am learning C++
